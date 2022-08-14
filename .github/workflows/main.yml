@@ -25,4 +25,4 @@ jobs:
         run: flutter pub get
 
       - name: Run Flutter Test
-        run: flutter test
+        run: flutter test test/content_visible.dart
