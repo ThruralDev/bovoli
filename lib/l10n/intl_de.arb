@@ -1,0 +1,6 @@
+{
+  "app_name" : "Bovoli",
+  "@app_name": {
+    "description": "Name of the app"
+  }
+}
